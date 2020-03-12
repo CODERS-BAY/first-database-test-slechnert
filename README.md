@@ -106,6 +106,6 @@ Bei einem Flug-Einsatz wird ein Flug (z.B. „LH 306“) an einem bestimmten Dat
 Bilden Sie das konzeptuelle Schema in ein relationales Schema ab. Das relationale Schema soll der 3. Normalform genügen
 
 
-[Aufgabe 1, 8 und 14](1_8_14.jpeg) <br>
-[Aufgabe 15](15.jpeg) <br>
-[Aufgabe 17](17.jpeg)
+![Aufgabe 1, 8 und 14](1_8_14.jpeg) <br>
+![Aufgabe 15](15.jpeg) <br>
+![Aufgabe 17](17.jpeg)
